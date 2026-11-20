@@ -1,0 +1,8 @@
+{
+  "name": "HarborVault — Zero-Knowledge Support Vault & First-Party Sync Bridge",
+  "description": "Enterprise log sanitization, zero-knowledge secret intake, and first-party LedgerOne–HelpDeskr sync bridge replacing third-party TallyBridge Connect for Harbor & Finch Freight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
